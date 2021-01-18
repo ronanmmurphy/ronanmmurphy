@@ -3,23 +3,6 @@
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=ronanmmurphy alt=ronanmmurphy> </p>
 
 
-
-<br>
-  <a href="https://www.linkedin.com/in/ronanmmurphy/" target="_blank">
-   <img align="left" alt="Ronan's | Linkedin" width="24px" src="https://github.com/ronanmmurphy/ronanmmurphy/blob/main/Linkedin.svg" />
-  </a>
-  <a href="mailto:ronanmmurphy77@gmail.com/" target="_blank">
-    <img align="left" alt="Ronan's | Gmail" width="26px" src="https://github.com/ronanmmurphy/ronanmmurphy/blob/main/Gmail.svg" />
-  </a>
-  <a href="https://twitter.com/ronanmurphy4/" target="_blank">
-    <img align="left" alt="Ronan's | Twitter" width="26px" src="https://github.com/ronanmmurphy/ronanmmurphy/blob/main/Twitter.svg" />
-  </a>
-  <a href="https://www.instagram.com/kingmurf69/" target="_blank">
-    <img align="left" alt="Ronan's | Instagram" width="24px" src="https://github.com/ronanmmurphy/ronanmmurphy/blob/main/Instagram.svg"  />
-</a>
-
-<br>
-
 **⭐ I'm an experienced Software Engineer specialising in AI**
 
 **🔭  Currently working as a Research Assistant at NUI Galway.<br>
@@ -36,7 +19,12 @@
   <code><a href="https://pytorch.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></a></code>
   <code><a href="https://opencv.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></a></code>
   <code><a href="https://jupyter.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
-
+  
+  <code><a href="https://www.arduino.cc/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></a></code>
+  <code><a href="https://www.android.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></a></code>
+  <code><a href="https://cloud.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></a></code>
+  <code><a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
+  <code><a href="https://jupyter.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
 
   <code><a href="https://spark.apache.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></a></code>
   <code><a href="https://www.javascript.com/" target="_blank"><img height="50"  src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
@@ -50,12 +38,12 @@
 **📚  Awarded a Scholarship to pursue a MSc in AI at NUI Galway, graduated in 2020 with a first-class honours.
       Graduated with BE in Computer Engineering at NUI Galway with first-class honours 2019.**
 
-Passion for Computer Vision, NLP and Deep Learning technologies. 
+**Passion for Computer Vision, NLP and Deep Learning technologies.**
 
 
-⚡ Fun fact: I'm an Irish international Waterpolo Player 🤽 
+**⚡ Fun fact: I'm an Irish international Waterpolo Player 🤽 **
 
-📫 Contact me through any of my social media links below 😄
+**📫 Contact me through any of my social media links below 😄**
 
 <p float=left>
   <a href="https://www.linkedin.com/in/ronanmmurphy/" target="_blank">
