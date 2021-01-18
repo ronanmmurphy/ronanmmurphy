@@ -35,13 +35,13 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ronanmmurphy)](https://github.com/anuraghazra/github-readme-stats)
 
-**📚  Awarded a Scholarship to pursue a MSc in AI at NUI Galway, graduated in 2020 with a first-class honours.
+**📚  Awarded a Scholarship to pursue a MSc in AI at NUI Galway, graduated in 2020 with a first-class honours.<br>
       Graduated with BE in Computer Engineering at NUI Galway with first-class honours 2019.**
 
-**Passion for Computer Vision, NLP and Deep Learning technologies.**
+**💡 Passion for Computer Vision, Natural Language Processing, Reinforcement Learning, Deep Learning, Data Mining and anything related to Artificial Intelligence**
 
 
-**⚡ Fun fact: I'm an Irish international Waterpolo Player 🤽 **
+**⚡ Fun fact: I'm an Irish international Waterpolo Player 🤽**
 
 **📫 Contact me through any of my social media links below 😄**
 
@@ -59,5 +59,4 @@
     <img align="left" alt="Ronan's | Instagram" width="24px" src="https://github.com/ronanmmurphy/ronanmmurphy/blob/main/Instagram.svg"  />
   </a>
 </p>
-
 
