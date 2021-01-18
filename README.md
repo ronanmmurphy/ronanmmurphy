@@ -36,16 +36,16 @@ Passion for Computer Vision, NLP and Deep Learning technologies.
 
 <br> 
   <a href="https://www.linkedin.com/in/ronanmmurphy" target="_blank">
-   <img align="left" alt="Ronan's LinkedIn | Linkedin" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
+   <img align="left" alt="Ronan's LinkedIn | Linkedin" width="24px" src="https://github.com/ronanmmurphy/ronanmmurphy/blob/master/Linkedin.svg" />
   </a>
   <a href="mailto:ronanmmurphy77@gmail.com" target="_blank">
-    <img align="left" alt="Ronan's Gmail | Gmail" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" />
+    <img align="left" alt="Ronan's Gmail | Gmail" width="26px" src="https://github.com/ronanmmurphy/ronanmmurphy/blob/master/Gmail.svg" />
   </a>
   <a href="https://twitter.com/ronanmurphy4" target="_blank">
-    <img align="left" alt="Ronan's Twitter | Twitter" width="26px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Twitter.svg" />
+    <img align="left" alt="Ronan's Twitter | Twitter" width="26px" src="https://github.com/ronanmmurphy/ronanmmurphy/blob/master/Twitter.svg" />
   </a>
   <a href="https://www.instagram.com/kingmurf69/" target="_blank">
-    <img align="left" alt="Ronan's Instagram| Instagram" width="24px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Instagram.svg"  />
+    <img align="left" alt="Ronan's Instagram| Instagram" width="24px" src="https://github.com/ronanmmurphy/ronanmmurphy/blob/master/Instagram.svg"  />
   </a>
 <!--
 **ronanmmurphy/ronanmmurphy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
