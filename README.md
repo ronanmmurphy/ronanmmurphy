@@ -32,7 +32,13 @@
   <code><a href="https://www.mongodb.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
  
   <code><a href="https://www.json.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></a></code>
+  <code><a href="https://www.r-project.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/r-project/r-project-ar21.svg"></a></code>
   <code><a href="https://www.atlassian.com/software/jira" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></a></code>
+  
+  <code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
+  <code><a href="https://gradle.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></a></code>
+  
+  <code><a href="https://www.shippable.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/shippable/shippable-ar21.svg"></a></code>
 </p>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ronanmmurphy)](https://github.com/anuraghazra/github-readme-stats)
