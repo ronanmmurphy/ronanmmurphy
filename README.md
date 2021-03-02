@@ -24,7 +24,7 @@
   <code><a href="https://www.android.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></a></code>
   <code><a href="https://cloud.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></a></code>
   <code><a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
-  <code><a href="https://jupyter.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
+  <code><a href="https://hadoop.apache.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></a></code>
 
   <code><a href="https://spark.apache.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></a></code>
   <code><a href="https://www.javascript.com/" target="_blank"><img height="50"  src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
