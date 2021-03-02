@@ -29,6 +29,8 @@
   <code><a href="https://spark.apache.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></a></code>
   <code><a href="https://www.javascript.com/" target="_blank"><img height="50"  src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
   <code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
+  <code><a href="https://www.mongodb.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
+ 
   <code><a href="https://www.json.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></a></code>
   <code><a href="https://www.atlassian.com/software/jira" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg"></a></code>
 </p>
