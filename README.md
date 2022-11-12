@@ -3,9 +3,10 @@
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=ronanmmurphy alt=ronanmmurphy> </p>
 
 
-**⭐ I'm an experienced Software Engineer specialising in AI**
 
-**🔭  Currently working as a Research Assistant at NUI Galway.<br>
+**🔭 Engineer at ByoWave
+**⭐ I'm an experienced Software and Hardware Engineer specialising in AI**
+**🔭  Previously Research Assistant at NUI Galway.<br>
   🏊  Project involves using Computer Vision to detect people in open-water environments**
 
 **🔍 Searching for my next role in industry powerful and positive impact on society through the implementation of AI software.**
