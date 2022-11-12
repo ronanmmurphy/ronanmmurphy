@@ -4,7 +4,7 @@
 
 
 
-**🔭 Engineer at ByoWave
+**🔭 Engineer at ByoWave**
 **⭐ I'm an experienced Software and Hardware Engineer specialising in AI**
 **🔭  Previously Research Assistant at NUI Galway.<br>
   🏊  Project involves using Computer Vision to detect people in open-water environments**
