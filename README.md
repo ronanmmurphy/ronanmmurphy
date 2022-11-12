@@ -6,7 +6,7 @@
 
 **🔭 Engineer at ByoWave making modular gaming controllers!**<br>
 **⭐ I'm an experienced Software and Hardware Engineer specialising in AI**<br>
-**🔭  Previously Research Assistant at NUI Galway.
+**🔭  Previously Research Assistant at NUI Galway
   🏊  Project involved using Computer Vision to detect people in open-water environments**
 
 **🔍 Trying to have a powerful and positive impact on society using Engineering.**
