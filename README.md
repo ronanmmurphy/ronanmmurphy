@@ -21,8 +21,8 @@
   <code><a href="https://expressjs.com/" target="_blank"><img height="50"  src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></a></code>
   <code><a href="https://www.djangoproject.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></a></code>
   <code><a href="https://www.vectorlogo.zone/logos/palletsprojects_flask/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg"></a>
-   <code><a href="https://www.php.net/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></a>
-   <code><a href="https://laravel.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></a>
+   <code><a href="https://www.php.net/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></a></code>
+   <code><a href="https://laravel.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></a></code>
   <code><a href="https://www.java.com/en/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
   <code><a href="https://www.android.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></a></code>
     <code><a href="https://azure.microsoft.com/en-us/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></a></code>
@@ -39,8 +39,7 @@
   <code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
   <code><a href="https://www.mongodb.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
   <code><a href="https://www.postgresql.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></a></code>
-
-    <code><a href="https://www.arduino.cc/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></a></code>
+  <code><a href="https://www.arduino.cc/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></a></code>
  
   <code><a href="https://www.json.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></a></code>
   <code><a href="https://www.r-project.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/r-project/r-project-ar21.svg"></a></code>
