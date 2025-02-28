@@ -20,7 +20,7 @@
   <code><a href="https://nodejs.org/en" target="_blank"><img height="50"  src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></a></code>
   <code><a href="https://expressjs.com/" target="_blank"><img height="50"  src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></a></code>
   <code><a href="https://www.djangoproject.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></a></code>
-  <code><a href="https://www.vectorlogo.zone/logos/palletsprojects_flask/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg"></a>
+  <code><a href="https://www.vectorlogo.zone/logos/palletsprojects_flask/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg"></a></code>
    <code><a href="https://www.php.net/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></a></code>
    <code><a href="https://laravel.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></a></code>
   <code><a href="https://www.java.com/en/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
