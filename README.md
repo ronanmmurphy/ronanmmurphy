@@ -14,7 +14,18 @@
 
 <p float="left">
   	<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
+  <code><a href="https://www.javascript.com/" target="_blank"><img height="50"  src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
+  <code><a href="https://react.dev/" target="_blank"><img height="50"  src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
+  <code><a href="https://redux.js.org/" target="_blank"><img height="50"  src="https://www.vectorlogo.zone/logos/js_redux/js_redux-ar21.svg"></a></code>
+  <code><a href="https://nodejs.org/en" target="_blank"><img height="50"  src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></a></code>
+  <code><a href="https://expressjs.com/" target="_blank"><img height="50"  src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></a></code>
+
+  <code><a href="https://www.djangoproject.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></a></code>
+  <code><a href="https://www.vectorlogo.zone/logos/palletsprojects_flask/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg"></a>
+   <code><a href="https://www.php.net/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></a>
+   <code><a href="https://laravel.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"></a>
   <code><a href="https://www.java.com/en/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
+  
   <code><a href="https://www.tensorflow.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
   <code><a href="https://pytorch.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></a></code>
   <code><a href="https://opencv.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></a></code>
@@ -27,7 +38,7 @@
   <code><a href="https://hadoop.apache.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></a></code>
 
   <code><a href="https://spark.apache.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></a></code>
-  <code><a href="https://www.javascript.com/" target="_blank"><img height="50"  src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
+  
   <code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
   <code><a href="https://www.mongodb.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
  
