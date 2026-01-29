@@ -3,12 +3,12 @@
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=ronanmmurphy alt=ronanmmurphy> </p>
 
 **🔭 Founder of RMM IT Consulting**<br>
-**⭐ I am a highly skilled IT consultant with over 8  years of experience in full-stack development, AI, data engineering, business intelligence (BI), and electronics engineering. I specialise in delivering scalable, innovative solutions that drive business success and enhance user experiences.**<br>
-**🔭 Former Senior Engineer at ByoWave making modular gaming controllers!**<br>
-**🔭  Previously Research Assistant at NUI Galway**<br>
-**🏊  Project involved using Computer Vision to detect people in open-water environments**
+**💻 I am a highly skilled IT consultant with over 8  years of experience in full-stack development, AI, DA, BI, and EE.**<br>
+**⭐ I specialise in delivering scalable, innovative solutions that drive business success and enhance user experiences.**<br>
+**🎮 Former Senior Engineer at ByoWave making modular gaming controllers for people with disabilities**<br>
+**🏊  Former Research Assistant at University of Galway. Implemented Computer Vision to detect people in open-water environments**
 
-**🔍 Trying to have a powerful and positive impact on society using Engineering.**
+**🔍 Trying to have a powerful and positive impact on society using engineering.**
 
 <h2>Experience in the following technologies:</h2>
 
@@ -52,15 +52,19 @@
 </p>
 
 
-**📚  Siemens|Engineers Ireland - Innovative graduate of the year 2021.<br>
+**📚 Achievements <br>
+      Siemens|Engineers Ireland - Innovative graduate of the year 2021.<br>
       IRC GOIPG PhD Scholarship in 2021.<br>
       Awarded a Scholarship to pursue an MSc in AI at NUI Galway, graduated in 2020 with first-class honours.<br>
-      Graduated with BE in Computer Engineering at NUI Galway with first-class honours 2019.**
+      Graduated with a BE in Computer Engineering at NUI Galway with first-class honours in 2019.**
 
-**💡 Passion for Computer Vision, Natural Language Processing, Reinforcement Learning, Deep Learning, Data Mining and anything related to Artificial Intelligence**
+**💡 Interests <br>
+Passion for hardware and software engineering with a particular focus on anything related to Artificial Intelligence**
 
 
-**⚡ Fun fact: I'm a former Irish international Waterpolo Player 🤽**
+**⚡ Hobbies <br>
+I'm a former Irish international Waterpolo player 🤽
+I also play Guitar and Trumpet 🎸**
 
 
 
