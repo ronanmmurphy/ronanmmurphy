@@ -2,11 +2,11 @@
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=ronanmmurphy alt=ronanmmurphy> </p>
 
-**🔭 Founder of RMM IT Consulting**<br>
+**🔭 Founder of RMM IT Consulting based in Dubai. UAE**<br>
 **💻 I am a highly skilled IT consultant with over 8  years of experience in full-stack development, AI, DA, BI, and EE.**<br>
 **⭐ I specialise in delivering scalable, innovative solutions that drive business success and enhance user experiences.**<br>
 **🎮 Former Senior Engineer at ByoWave making modular gaming controllers for people with disabilities**<br>
-**🏊  Former Research Assistant at University of Galway. Implemented Computer Vision to detect people in open-water environments**
+**🏊 Former Research Assistant at University of Galway. Implemented Computer Vision to detect people in open-water environments**
 
 **🔍 Trying to have a powerful and positive impact on society using engineering.**
 
