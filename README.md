@@ -2,11 +2,11 @@
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=ronanmmurphy alt=ronanmmurphy> </p>
 
-**🔭 Founder of RMM IT Consulting
+**🔭 Founder of RMM IT Consulting**<br>
 **⭐ I am a highly skilled IT consultant with over 8  years of experience in full-stack development, AI, data engineering, business intelligence (BI), and electronics engineering. I specialise in delivering scalable, innovative solutions that drive business success and enhance user experiences.**<br>
 **🔭 Former Senior Engineer at ByoWave making modular gaming controllers!**<br>
-**🔭  Previously Research Assistant at NUI Galway
-  🏊  Project involved using Computer Vision to detect people in open-water environments**
+**🔭  Previously Research Assistant at NUI Galway**<br>
+**🏊  Project involved using Computer Vision to detect people in open-water environments**
 
 **🔍 Trying to have a powerful and positive impact on society using Engineering.**
 
@@ -51,7 +51,6 @@
   <code><a href="https://www.shippable.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/shippable/shippable-ar21.svg"></a></code>
 </p>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ronanmmurphy)](https://github.com/anuraghazra/github-readme-stats)
 
 **📚  Siemens|Engineers Ireland - Innovative graduate of the year 2021.<br>
       IRC GOIPG PhD Scholarship in 2021.<br>
@@ -63,7 +62,6 @@
 
 **⚡ Fun fact: I'm a former Irish international Waterpolo Player 🤽**
 
-**📫 Contact me through any of my social media links below 😄**
 
 
 
