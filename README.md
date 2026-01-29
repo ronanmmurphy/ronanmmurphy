@@ -2,8 +2,8 @@
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=ronanmmurphy alt=ronanmmurphy> </p>
 
-**🔭 Founder of RMM IT Consulting - Check us out - https://www.rmmitconsulting.com/**<br>
-**⭐ I am a highly skilled IT consultant with over 7 years of experience in full-stack development, AI, data engineering, business intelligence (BI), and electronics engineering. I specialise in delivering scalable, innovative solutions that drive business success and enhance user experiences.**<br>
+**🔭 Founder of RMM IT Consulting
+**⭐ I am a highly skilled IT consultant with over 8  years of experience in full-stack development, AI, data engineering, business intelligence (BI), and electronics engineering. I specialise in delivering scalable, innovative solutions that drive business success and enhance user experiences.**<br>
 **🔭 Former Senior Engineer at ByoWave making modular gaming controllers!**<br>
 **🔭  Previously Research Assistant at NUI Galway
   🏊  Project involved using Computer Vision to detect people in open-water environments**
@@ -61,24 +61,9 @@
 **💡 Passion for Computer Vision, Natural Language Processing, Reinforcement Learning, Deep Learning, Data Mining and anything related to Artificial Intelligence**
 
 
-**⚡ Fun fact: I'm an Irish international Waterpolo Player 🤽**
-
-**Check out my website: https://www.ronan@rmmitconsulting.com**
+**⚡ Fun fact: I'm a former Irish international Waterpolo Player 🤽**
 
 **📫 Contact me through any of my social media links below 😄**
 
-<p float=left>
-  <a href="https://www.linkedin.com/in/ronanmmurphy/" target="_blank">
-   <img align="left" alt="Ronan's | Linkedin" width="24px" src="https://github.com/ronanmmurphy/ronanmmurphy/blob/main/Linkedin.svg" />
-  </a>
-  <a href="mailto:ronan@rmmitconsulting.com" target="_blank">
-    <img align="left" alt="Ronan's | Gmail" width="26px" src="https://github.com/ronanmmurphy/ronanmmurphy/blob/main/Gmail.svg" />
-  </a>
-  <a href="https://twitter.com/ronanmurphy4/" target="_blank">
-    <img align="left" alt="Ronan's | Twitter" width="26px" src="https://github.com/ronanmmurphy/ronanmmurphy/blob/main/Twitter.svg" />
-  </a>
-  <a href="https://www.instagram.com/kingmurf7/" target="_blank">
-    <img align="left" alt="Ronan's | Instagram" width="24px" src="https://github.com/ronanmmurphy/ronanmmurphy/blob/main/Instagram.svg"  />
-  </a>
-</p>
+
 
